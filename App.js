@@ -18,5 +18,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#FAFAFA',
     alignItems: 'center',
+    justifyContent: 'space-between',
   },
 })
