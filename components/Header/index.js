@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
         paddingLeft: '7%',
         paddingRight: '7%',
         width: '100%',
-        height: '21%'
+        height: '20%',
     },
     title: {
         fontSize: 32,

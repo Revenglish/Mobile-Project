@@ -8,7 +8,6 @@ export default function Menu() {
             colors={[
                 '#000000',
                 '#03007DFE',
-
             ]}
                 start={{ x: 0, y: 0 }}
                 end={{ x: 1, y: 0 }}
